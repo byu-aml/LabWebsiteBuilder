@@ -8,11 +8,11 @@ comments: false
 share: false
 ---
 If you're interested in joining our research and are a current student at BYU, join us for our lab meetings Firday at 11 in TMCB 3360.
-### Graduate
+
+### Graduate Students
 
 This person (link): short blurb
 
 ### Undergraduate
 
-This person (link): short blurb
- ([website](http://some_website).)
+[Orion Weller](http://orionweller.github.io) is a Computer Science Junior researching Metalearning and Natural Language Processing.
