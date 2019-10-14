@@ -1,19 +1,18 @@
 ---
 layout: page #was "home", but I don't need the latest blog feed template on the homepage
 title: Welcome
-excerpt: "The personal website of Grant R. McDermott."
-tags: [Jekyll, theme, responsive, blog, template]
+excerpt: "Lab website for the AML: Applied Machine Learning lab."
+tags: [Jekyll, theme, responsive, blog, bio]
 image:
-  feature: rallarvegen-crop.jpg
-  credit: "@grant_mcdermott"
-  creditlink: https://twitter.com/grant_mcdermott
+  feature: croppedbyu.jpg
+share: false
 ---
 
-I am an assistant professor of economics at the University of Oregon. My research fields are environmental and resource economics, with particular interests in climate, energy, water, and fisheries.
+The Applied Machine Learning Lab at Brigham Young University focuses on various aspects of Computer Science research, with recent work in Natural Language Processing, Human-Computer Interaction, Machine Learning, and Metalearning.  Our current research projects include [Topic Modeling (w/UMD)](http://users.umiacs.umd.edu/~jbg/projects/IIS-1409287.html) and [Metalearning](https://www.darpa.mil/program/data-driven-discovery-of-models).  We're very grateful to our sponsors, the [NSF Foundation](https://nsf.gov/awardsearch/showAward?AWD_ID=1409739) and [DARPA](https://www.darpa.mil/program/data-driven-discovery-of-models).
 
-My work is mostly applied and uses a mix of classical econometrics, Bayesian methods, GIS, and (increasingly) newer data science tools like machine learning. Broadly speaking, I am interested in questions like: How do changes in environmental conditions affect the economy, and vice versa? How should societies manage their natural resources when they are faced with uncertainty, and how does this behaviour change if new information becomes available? And, do environmental policies function as intended, or are there unexpected consequences?
 
-Please feel free to contact me at the links provided on this website, or at the following address: Department of Economics, 1285 University of Oregon, Eugene, OR 97403-1285, USA
+Dr. Seppi received his B.S. in Computer Science from Brigham Young University in 1982 and his M.S. from Santa Clara University in 1987. He received his Ph.D. from the University of Texas at Austin in 1990 on a resident study fellowship from IBM. He returned to IBM following his Ph.D. work, and worked with IBM until 1995 when he joined BMC Software. Dr. Seppi joined the BYU Computer Science faculty in the fall of 2002.
+
 
 <!--
 <p class="rss-subscribe">Subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}" target="_blank">via RSS</a>.</p>

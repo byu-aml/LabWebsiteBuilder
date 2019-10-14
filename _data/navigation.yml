@@ -3,21 +3,18 @@
 - title: Home
   url:
 
-- title: Bio
-  url: /bio/
-
 - title: Research
   url: /research/
 
-- title: Teaching
-  url: /teaching/
+- title: Students
+  url: /students/
+
+- title: Publications
+  url: /publications/
 
 - title: Vita
-  url: /vita/mcdermott-vita.pdf
-  #url: /vita/
+  url: /pdf/seppi_vita.pdf
 
-- title: Blog
-  url: /blog/
 
 #- title: Theme Setup
 #  url: /theme-setup/

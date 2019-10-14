@@ -1,8 +1,8 @@
 # Site wide configuration
 
-title: Grant R. McDermott
+title: Applied Machine Learning Lab
 locale: en_US
-url: https://grantmcdermott.com
+url: https://byu-aml.github.io
 ## To build the website locally, comment out the previous line and run
 ## in terminal: 'bundle ex jekyll serve'. The website will be hosted at
 ## 'localhost:4000'.
@@ -21,6 +21,8 @@ sass:
 plugins:
   - jekyll-sitemap
   - jekyll-gist
+  - jekyll-scholar
+  - jekyll/scholar
 
 kramdown:
   auto_ids: true
@@ -28,6 +30,30 @@ kramdown:
   entity_output: as_char
   toc_levels: 1..6
   enable_coderay: false
+
+# Jekyll-Scholar
+scholar:
+
+  last_name: Einstein
+
+  style: apa
+  locale: en
+
+  sort_by: year
+  order: descending
+
+  source: /_bibliography/
+  bibliography: papers.bib
+  bibliography_template: bib
+
+  replace_strings: true
+  join_strings: true
+
+  details_dir: bibliography
+  details_layout: bibtex.html
+  details_link: Details
+
+  query: "@*"
 
 # Octopress
 
@@ -45,25 +71,14 @@ titlecase: true
 
 # Site owner
 owner:
-  name: Grant McDermott
-  avatar: mcdermott400sq.jpg
-  bio: "Assistant Professor</br>Dept. of Economics</br>University of Oregon"
-  email: grantmcd@uoregon.edu
-  disqus-shortname: grantmcdermott-blog
-  twitter: grant_mcdermott
-  facebook: #username
-  google_scholar: EruWDMwAAAAJ
-  google:
-    plus: #username
-    analytics: UA-76482472-1
-    verify:
-    ad-client:
-    ad-slot:
-  orcid: 0000-0001-7883-8573
-  bing-verify:
-  github: grantmcdermott
+  name: Kevin Seppi
+  avatar: seppi.jpg
+  bio: "Professor</br>Dept. of Computer Science</br>Brigham Young University"
+  # email: example@example.com
+  google_scholar: xLQan5cAAAAJ
+  github: byu-aml-lab
   stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
-  linkedin: grant-mcdermott-b8637419
+  linkedin: kevin-seppi-a923b540
   xing: #username
   instagram: #username
   lastfm: #username
