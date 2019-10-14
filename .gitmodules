@@ -1,0 +1,3 @@
+[submodule "byu-aml.github.io"]
+	path = byu-aml.github.io
+	url = https://github.com/byu-aml/byu-aml.github.io.git
