@@ -7,7 +7,7 @@ modified: 2019-01-21T20:17:00.523882-04:00
 comments: false
 share: false
 ---
-We're looking for motivated students to join our lab! If you're interested in joining our research and are a current student at BYU, join us for our lab meetings Firday at 11 in TMCB 3360 or email Professor Seppi with your resume.
+We're looking for motivated students to join our lab! If you're interested in joining our research and are a current student at BYU, join us for our lab meetings Friday at 11 in TMCB 3360 or email Professor Seppi with your resume.
 
 ### Graduate Students
 TODO: persons name (link): short blurb
@@ -17,4 +17,5 @@ TODO: persons name (link): short blurb
 
 ### Alumni
 Jeff Lund (Google)
+
 David Wingate ([Professor](https://cs.byu.edu/faculty/dw87) at Brigham Young University)
