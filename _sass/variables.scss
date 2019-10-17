@@ -147,8 +147,8 @@ $darken-4:          rgba(#000,.5) !default;
 $background-color:  white;
 
 // // Links
-// $link-color:        $theme-color;
-// $link-hover-color:  darken($theme-color, 40%);
+$link-color-bib:        $theme-color;
+$link-hover-color-bib:  darken($theme-color, 40%);
 
 // Breakpoints
 $breakpoint-md: '(min-width: 52em)';
