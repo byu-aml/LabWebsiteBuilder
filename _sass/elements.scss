@@ -28,6 +28,10 @@ article img {
 	-ms-interpolation-mode: bicubic;
 }
 
+.width-half {
+  width: 50%
+}
+
 svg:not(:root) {
 		overflow: hidden;
 }

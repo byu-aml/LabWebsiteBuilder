@@ -4,7 +4,7 @@ title: Welcome
 excerpt: "Lab website for the AML: Applied Machine Learning lab."
 tags: [Jekyll, theme, responsive, blog, bio]
 image:
-  feature: croppedbyu.jpg
+  feature: byuedu-crop.jpg
 share: false
 ---
 

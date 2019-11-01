@@ -10,10 +10,24 @@ share: false
 We're looking for motivated students to join our lab (PhD, Masters, and Undergraduates)! If you're interested in joining our research and are a current student at BYU, join us for our lab meetings Friday at 11 in TMCB 3360 or email Professor Seppi with your resume.
 
 ### Graduate Students
-TODO: persons name (link): short blurb
+Piper Armstrong
 
-### Undergraduate
-[Orion Weller](http://orionweller.github.io) is a Computer Science Junior researching Metalearning and Natural Language Processing.
+Wilson Fearn
+
+Stephen Cowley
+
+Courtni Byun
+
+Evan Peterson
+
+Brandon Schoenfeld
+
+### Undergraduate Students
+[Orion Weller](http://orionweller.github.io)
+
+Jeremy Rees
+
+Mason Poggemann
 
 ### Alumni
 Jeff Lund (Google)
